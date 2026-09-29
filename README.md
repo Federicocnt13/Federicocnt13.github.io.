@@ -5,7 +5,7 @@ Benvenuto nel mio spazio personale. Sono un Data Analyst con background in econo
 
 ## 📄 Il mio Curriculum
 Puoi consultare o scaricare la versione aggiornata del mio CV direttamente qui sotto:
--> [Scarica il mio CV in PDF](inserisci_qui_il_link_al_tuo_cv)
+-> [Scarica il mio CV in PDF](file:///C:/Users/11626772/Desktop/CV_Federico_Conti2026.pdf)
 
 ## 🛠️ Cosa faccio
 - **Data & Analytics:** Modellazione dati, automazione flussi, dashboard e reportistica avanzata.
