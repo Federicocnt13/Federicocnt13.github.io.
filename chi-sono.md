@@ -8,10 +8,9 @@ Puoi consultare o scaricare la versione aggiornata del mio CV direttamente qui s
 -> [Scarica il mio CV in PDF](file:///C:/Users/11626772/Desktop/CV_Federico_Conti2026.pdf)
 
 ## 🛠️ Cosa faccio
-- **Data & Analytics:** Modellazione dati, automazione flussi, dashboard e reportistica avanzata.
-- **AI & GenAI:** Sperimentazione con agenti basati su LLM in modo autonomo (non in ambiente lavorativo). In tim ho seguito progetti di GenAI
-  come analista funzionale
-- **Passioni:** Fotografia, viaggi e crossfit.
+- **[Data & Analytics](./projects.html):** Modellazione dati, automazione flussi, dashboard e reportistica avanzata. *(Clicca per vedere tutti i progetti)*
+- **AI & GenAI:** Sperimentazione con agenti basati su LLM in modo autonomo. In TIM ho seguito progetti di GenAI come analista funzionale.
+- **Passioni:** Fotografia, viaggi e CrossFit.
 
 ## 📬 Contatti
 - [LinkedIn](https://www.linkedin.com/in/conti--federico/)
