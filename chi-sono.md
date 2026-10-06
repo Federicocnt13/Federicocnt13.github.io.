@@ -1,7 +1,7 @@
 
 **Data Analyst & Business Developer**
 
-Benvenuto nel mio spazio personale. Sono un Data Analyst con background in economia e statistica, attualmente attivo nel settore delle telecomunicazioni (TIM), dove mi occupo di governance di KPI e SLA, executive reporting e iniziative legate all'intelligenza artificiale generativa.
+Benvenuto nel mio spazio personale. Sono un Data Analyst con background in economia e statistica, attualmente attivo nel settore delle telecomunicazioni (TIM), dove mi occupo di governance di KPI e SLA, e executive reporting.
 
 ## 📄 Il mio Curriculum
 Puoi consultare o scaricare la versione aggiornata del mio CV direttamente qui sotto:
